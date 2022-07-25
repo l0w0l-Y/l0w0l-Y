@@ -3,7 +3,9 @@
 
 🤖 **Programming language:** Kotlin (best of the best)
 
-🌱 I’m currently learning **Android**
+:octocat: Android **Composer**
+
+
 <!--
 **l0w0l-Y/l0w0l-Y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
